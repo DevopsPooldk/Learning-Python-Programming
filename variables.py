@@ -9,3 +9,20 @@ print(" Rule for Identifires :",Dinesh_khade_204155425815588) # Rule of identifi
 
 # Printing Type of variable :
 print(type(name))
+
+
+# Datatypes In Python 
+
+integer =20
+string = "String"
+floating = 20.5
+boolean = False
+a= None
+
+
+print(type(integer))
+print(type(string))
+print(type(floating))
+print(type(boolean))
+print(type(a))
+
